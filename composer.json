@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vimeo/vimeo-api": "2.0",
+        "twilio/sdk": "^6.16"
+    }
+}
